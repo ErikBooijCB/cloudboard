@@ -22,7 +22,7 @@ function Cloudboard({ children, location, remoteMode }) {
         >
           Niels Gerritsen
         </a>
-        {'\u00A0'}2016 - version {version}
+        {'\u00A0'}2017 - version {version}
       </p>
     </div>
   )
